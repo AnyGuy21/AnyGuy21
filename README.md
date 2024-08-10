@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AnyGuy21
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning kotlin
+- 😄 Pronouns: bad coder
+- ⚡ Fun fact: im programming Minecraft
